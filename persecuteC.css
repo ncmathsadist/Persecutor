@@ -1,0 +1,27 @@
+/*Author: Morrison*/
+h1, h2, .display
+{
+    text-align:center;
+}
+body
+{
+    background-color:#FFF8E7;
+}
+img
+{   
+    border:solid 1px black;
+}
+#B, #C, #F
+{
+    font-family:Courier:Monospace;
+    font-size:2em;
+    font-weight:bold;
+    margin:1em;
+    border:solid 5px black;
+    background-color:#99BADD;
+    color:#001A57;
+}
+#chosen
+{
+    color:#CC0000;
+}
